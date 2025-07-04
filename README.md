@@ -1,4 +1,4 @@
-# Java Console Quiz App 🎯
+# Java Console Quiz App 
 
 This is a simple console-based quiz app created as part of Task 8 of the Java Developer Internship at Elevate Labs.
 
@@ -21,7 +21,7 @@ What is Java?
 Your answer (1-4): 2
 ✔ Correct!
 
-...
+
 ===== Quiz Completed =====
 
 Your Score: 4/5
