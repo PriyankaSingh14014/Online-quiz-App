@@ -23,6 +23,7 @@ Your answer (1-4): 2
 
 ...
 ===== Quiz Completed =====
+
 Your Score: 4/5
 Good job! 👍
 
@@ -30,11 +31,10 @@ screenshots included for output.
 
 ##  How to Run
 Compile:
-```
+
 javac QuizApp.java
 javac Question.java
-```
+
 Run:
-```
+
 java QuizApp
-```# Online-quiz-App
