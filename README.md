@@ -20,6 +20,9 @@ What is Java?
 4. A browser
 Your answer (1-4): 2
 ✔ Correct!
+..........
+   .........
+   .........
 
 
 ===== Quiz Completed =====
